@@ -1,0 +1,1 @@
+# alfred-trash-download-folder-content
